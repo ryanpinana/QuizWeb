@@ -1,0 +1,272 @@
+[{
+  "_id": {
+    "$oid": "691701d8602875114b8c9013"
+  },
+  "text": "In che anno fu fondata la Svizzera?",
+  "options": [
+    "1918",
+    "1847",
+    "1292",
+    "893"
+  ],
+  "correctAnswers": [
+    2
+  ],
+  "type": "singola",
+  "difficulty": "facile",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170285602875114b8c901d"
+  },
+  "text": "Chi fu il primo partito politico Svizzero?",
+  "options": [
+    "UDC",
+    "PLR",
+    "PS",
+    "PPD"
+  ],
+  "correctAnswers": [
+    1
+  ],
+  "type": "singola",
+  "difficulty": "media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6917054a602875114b8c9036"
+  },
+  "text": "Quanti cantoni ci sono in Svizzera?",
+  "options": [
+    "26",
+    "28",
+    "24",
+    "19"
+  ],
+  "correctAnswers": [
+    0
+  ],
+  "type": "singola",
+  "difficulty": "media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691705a3602875114b8c9040"
+  },
+  "text": "Quale è il partito con più voti in Svizzera?",
+  "options": [
+    "PS",
+    "Il Centro",
+    "PLR",
+    "UDC"
+  ],
+  "correctAnswers": [
+    3
+  ],
+  "type": "singola",
+  "difficulty": "facile",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69171277602875114b8c9050"
+  },
+  "text": "Quale è la montagna più alta della Svizzera?",
+  "options": [
+    "Monte Rosa",
+    "Pizzo Dufour",
+    "Matterhorn",
+    "Eiger"
+  ],
+  "correctAnswers": [
+    1
+  ],
+  "type": "singola",
+  "difficulty": "difficile",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929a54ab1cd67cbfa2f4cec"
+  },
+  "text": "Come era diviso il canton Ticino quando entrò nella confederazione?",
+  "options": [
+    "Diviso tra Grigioni ed Uri",
+    "Diviso in Bellinzona e Lugano",
+    "Non è mai stato diviso",
+    "Diviso tra Uri e Ducato di Milano"
+  ],
+  "correctAnswers": [
+    1
+  ],
+  "type": "singola",
+  "difficulty": "difficile",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929a5e8b1cd67cbfa2f4cf6"
+  },
+  "text": "Tra chi fu combattuta la Guerra del Sönderbund?",
+  "options": [
+    "Tra Svizzeri ed Italiani",
+    "Tra i comunisti e conservatori",
+    "Tra confederati e i federali liberali",
+    "Tra Bernesi e Friborghesi"
+  ],
+  "correctAnswers": [
+    2
+  ],
+  "type": "singola",
+  "difficulty": "media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929a621b1cd67cbfa2f4d00"
+  },
+  "text": "Quale cantone entrò nella Svizzera grazie al Congresso di Vienna?",
+  "options": [
+    "Neuchatel",
+    "Basilea",
+    "Friborgo",
+    "Sciaffusa"
+  ],
+  "correctAnswers": [
+    0
+  ],
+  "type": "singola",
+  "difficulty": "media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929a7dbb1cd67cbfa2f4d0a"
+  },
+  "text": "Per un breve periodo, i cantoni di Appenzello e San Gallo furono uniti, come si chiamò il cantone?",
+  "options": [
+    "Grande Appenzello",
+    "San Appenzello",
+    "Grand Est",
+    "Säntis"
+  ],
+  "correctAnswers": [
+    3
+  ],
+  "type": "singola",
+  "difficulty": "difficile",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6932c1f9f43c45c56a0bac29"
+  },
+  "text": "Quanti soldati attivi ha l'esercito svizzero?",
+  "options": [
+    "130.000",
+    "42.000",
+    "9.000",
+    "87.000"
+  ],
+  "correctAnswers": [
+    2
+  ],
+  "type": "singola",
+  "difficulty": "difficile",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6932c385f43c45c56a0bac33"
+  },
+  "text": "Chi fu l'ultimo generale dell'esercito svizzero?",
+  "options": [
+    "Martin Pfister",
+    "Henri Guisan",
+    "Alain Berset",
+    "Guy Parmelain"
+  ],
+  "correctAnswers": [
+    1
+  ],
+  "type": "singola",
+  "difficulty": "facile",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6932c456f43c45c56a0bac47"
+  },
+  "text": "Chi fu il primo presidente della Svizzera?",
+  "options": [
+    "Stefano Franscini",
+    "Friedrich Frey-Hérosé",
+    "Ulrich Ochsenbein",
+    "Jonas Furrer"
+  ],
+  "correctAnswers": [
+    3
+  ],
+  "type": "singola",
+  "difficulty": "difficile",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6932c52d7022031e8d82e890"
+  },
+  "text": "Chi fu il fondatore della Lega dei Ticinesi?",
+  "options": [
+    "Giugliano Bignasca",
+    "Ignazio Cassis",
+    "Attilo Bignasca",
+    "Norman Gobbi",
+    "Flavio Maspoli"
+  ],
+  "correctAnswers": [
+    0,
+    4
+  ],
+  "type": "multiple",
+  "difficulty": "media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6932c5a87022031e8d82e89a"
+  },
+  "text": "Quanti bunker ci sono in Svizzera?",
+  "options": [
+    "100.000",
+    "3.000.000",
+    "73.000",
+    "300.000"
+  ],
+  "correctAnswers": [
+    3
+  ],
+  "type": "singola",
+  "difficulty": "facile",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6932c61d7022031e8d82e8a4"
+  },
+  "text": "Quanti comuni ci sono in Ticino",
+  "options": [
+    "100",
+    "48",
+    "189",
+    "21"
+  ],
+  "correctAnswers": [
+    0
+  ],
+  "type": "singola",
+  "difficulty": "media",
+  "__v": 0
+}]

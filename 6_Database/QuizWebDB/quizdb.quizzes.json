@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "691712c7602875114b8c9062"
+  },
+  "title": "Quiz sulla Svizzera",
+  "description": "Un semplice quiz sulla nostra confederazione.",
+  "questions": [
+    {
+      "$oid": "691701d8602875114b8c9013"
+    },
+    {
+      "$oid": "69170285602875114b8c901d"
+    },
+    {
+      "$oid": "6917054a602875114b8c9036"
+    },
+    {
+      "$oid": "691705a3602875114b8c9040"
+    },
+    {
+      "$oid": "69171277602875114b8c9050"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-11-14T11:30:15.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929a808b1cd67cbfa2f4d15"
+  },
+  "title": "Quiz sulla Svizzera (avanzato)",
+  "description": "Un quiz suall confederazione più difficile del precedente",
+  "questions": [
+    {
+      "$oid": "6929a54ab1cd67cbfa2f4cec"
+    },
+    {
+      "$oid": "6929a5e8b1cd67cbfa2f4cf6"
+    },
+    {
+      "$oid": "6929a621b1cd67cbfa2f4d00"
+    },
+    {
+      "$oid": "6929a7dbb1cd67cbfa2f4d0a"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-11-28T13:47:52.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929ab16b1cd67cbfa2f4d36"
+  },
+  "title": "Quiz sulla Svizzera completo",
+  "description": "Un quiz che comprende tutte le domande sulla svizzera.",
+  "questions": [
+    {
+      "$oid": "691701d8602875114b8c9013"
+    },
+    {
+      "$oid": "69170285602875114b8c901d"
+    },
+    {
+      "$oid": "6917054a602875114b8c9036"
+    },
+    {
+      "$oid": "691705a3602875114b8c9040"
+    },
+    {
+      "$oid": "69171277602875114b8c9050"
+    },
+    {
+      "$oid": "6929a54ab1cd67cbfa2f4cec"
+    },
+    {
+      "$oid": "6929a5e8b1cd67cbfa2f4cf6"
+    },
+    {
+      "$oid": "6929a621b1cd67cbfa2f4d00"
+    },
+    {
+      "$oid": "6929a7dbb1cd67cbfa2f4d0a"
+    },
+    {
+      "$oid": "6932c1f9f43c45c56a0bac29"
+    },
+    {
+      "$oid": "6932c385f43c45c56a0bac33"
+    },
+    {
+      "$oid": "6932c456f43c45c56a0bac47"
+    },
+    {
+      "$oid": "6932c52d7022031e8d82e890"
+    },
+    {
+      "$oid": "6932c5a87022031e8d82e89a"
+    },
+    {
+      "$oid": "6932c61d7022031e8d82e8a4"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-11-28T14:00:54.416Z"
+  },
+  "__v": 0
+}]
